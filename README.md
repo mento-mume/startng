@@ -1,0 +1,2 @@
+# startng
+pre-internship tutorial
